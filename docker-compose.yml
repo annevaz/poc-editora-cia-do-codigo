@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  piol.api:
+    image: ${DOCKER_REGISTRY-}piolapi
+    build:
+      context: .
+      dockerfile: src/PIOL.Api/Dockerfile

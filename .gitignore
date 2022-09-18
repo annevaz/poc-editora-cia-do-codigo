@@ -1,0 +1,9 @@
+*.vscode
+bin/
+obj/
+src/PIOL.Api/bin
+src/PIOL.Api/obj
+src/PIOL.Business/bin
+src/PIOL.Business/obj
+src/PIOL.Data/bin
+src/PIOL.Data/obj
